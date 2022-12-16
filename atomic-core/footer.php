@@ -219,6 +219,7 @@ if (file_exists($filename)) {
         plugins: [ ListFuzzySearch() ]
     });
 </script>
+<script src="atomic-core/vendor/dark.js"></script>
 
 </body>
 </html>

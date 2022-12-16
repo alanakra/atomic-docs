@@ -98,6 +98,8 @@ $settings = $settings->select(array());
             </div>
         </a>
 
+        <p id="switchLight">Switch</p>
+
             <div class="atoms-side_hide">
                 <span class="js-hideSide navIcon navIcon-left fa fa-arrow-left"></span>
                 <span class="navIcon js_searchTrigger  fa fa-search "></span>
