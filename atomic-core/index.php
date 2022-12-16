@@ -92,9 +92,11 @@ $settings = $settings->select(array());
     <aside class="atoms-side">
         <div class="atoms-overflow">
 
+        <a href="./atomic-core">
             <div class="logo">
                 <img src="img/atomic-logo.svg">
             </div>
+        </a>
 
             <div class="atoms-side_hide">
                 <span class="js-hideSide navIcon navIcon-left fa fa-arrow-left"></span>
