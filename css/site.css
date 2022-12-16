@@ -1129,6 +1129,9 @@ See http://bgrins.github.io/spectrum/themes/ for instructions.
       margin-left: 24px; }
     #atomsWrap .atoms-side a {
       text-decoration: none; }
+    #atomsWrap .atoms-side a.s-dark {
+      color: white;
+    }
   #atomsWrap .atoms-nav {
     list-style: none;
     padding: 0;
